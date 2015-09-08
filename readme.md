@@ -1,0 +1,1 @@
+Simple demonstration of instagram effects using php functions. Easy to integrate and develop, you can add a upload form and offer the filters to any user. If you need any help, or need assistance creating additional filters let me know and I'll do my best to assist!
